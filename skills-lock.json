@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "skills": {
+    "create-game-assets": {
+      "source": "gamedev-skills/awesome-gamedev-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/disciplines/create-game-assets/SKILL.md",
+      "computedHash": "68d5cb83ab462a2a29e77559d9add636fa1fc91d4f732c02b03995362bbc4117"
+    },
+    "router": {
+      "source": "gamedev-skills/awesome-gamedev-agent-skills",
+      "sourceType": "github",
+      "skillPath": "router/SKILL.md",
+      "computedHash": "b800f54ff3eca94c20aaa661e9546b8a44d999d2e774984afbdebc3f8cae0358"
+    },
+    "unreal-behavior-trees": {
+      "source": "gamedev-skills/awesome-gamedev-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/unreal/unreal-behavior-trees/SKILL.md",
+      "computedHash": "451028979dc23b44eca0b08aa570338b0fbecd93d3073b98ef2bc266ce7a55f2"
+    },
+    "unreal-blueprint-architecture": {
+      "source": "adventuresincausality/game-development-constitution",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/unreal-blueprint-architecture/SKILL.md",
+      "computedHash": "327545ba5a0460bc2e2221036f9ff8b8e5cd96547f7f6243179fb8dd2767e27e"
+    },
+    "unreal-blueprints": {
+      "source": "gamedev-skills/awesome-gamedev-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/unreal/unreal-blueprints/SKILL.md",
+      "computedHash": "cde95ab52e459dc628a551db8559215cfcf62abac7222dfdd458ebec4afcb00a"
+    },
+    "unreal-editor-automation": {
+      "source": "adventuresincausality/game-development-constitution",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/unreal-editor-automation/SKILL.md",
+      "computedHash": "0e4aa8a4a86511f5e48eac0680a89ed3c1bad27411d6d9e8b81898093ee14bdf"
+    },
+    "unreal-enhanced-input": {
+      "source": "gamedev-skills/awesome-gamedev-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/unreal/unreal-enhanced-input/SKILL.md",
+      "computedHash": "49733ad50d04c34ccef6dc858acd419a62c8c71c59dd52a90a6a234799352ebe"
+    },
+    "unreal-lighting": {
+      "source": "adventuresincausality/game-development-constitution",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/unreal-lighting/SKILL.md",
+      "computedHash": "aca220ee937321ddbd5f3e120f81eabc103fe44b14d15c67842796471d6d9997"
+    },
+    "unreal-materials": {
+      "source": "adventuresincausality/game-development-constitution",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/unreal-materials/SKILL.md",
+      "computedHash": "d0df604e93eb9eae28e5e7d8216be7c98be85b7ae8d818df5da5c855b25f816a"
+    },
+    "unreal-niagara": {
+      "source": "gamedev-skills/awesome-gamedev-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/unreal/unreal-niagara/SKILL.md",
+      "computedHash": "97ad19bbfe1e20b80e9d3b2a92241ad8ecf35dd98f0e328fcebdd137136757a3"
+    },
+    "unreal-packaging": {
+      "source": "gamedev-skills/awesome-gamedev-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/unreal/unreal-packaging/SKILL.md",
+      "computedHash": "8d3355c2165bb6b00990fc2818525ed5b34fdaa43e21f0d1089cc17aeca59289"
+    }
+  }
+}

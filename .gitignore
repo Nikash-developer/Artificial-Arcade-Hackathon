@@ -1,0 +1,23 @@
+# Unreal Engine transient and cache directories
+**/Binaries/
+**/Build/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/.vs/
+**/*.sln
+**/*.log
+**/*.tmp
+**/*.suo
+**/*.user
+**/*.VC.db
+**/*.opendb
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node modules & temporary files
+node_modules/
+npm-debug.log*
